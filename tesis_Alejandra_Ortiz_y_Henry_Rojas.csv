@@ -1,0 +1,9 @@
+Estructura,Datos
+Universidad,Universidad Nacional Pedro Ruiz Gallo
+Título,"Modelo de estadística espacial para identificar focos de criminalidad. Distritos la victoria, José Leonardo Ortiz y Chiclayo. 2017 – marzo 2019"
+Primer tesista,"Ortiz García, Briggiet Alejandra Janet"
+Segundo tesista,"Rojas Rojas, Henry"
+Grado,Licenciado (a) en Estadística
+Asesor,"Antón Pérez, Juan Manuel"
+Resumen,"La presente investigación tuvo como objetivo construir un Modelo de Estadística Espacial para identificar focos de criminalidad en los distritos de La Victoria, José Leonardo Ortiz y de Chiclayo, 2017 – Marzo del 2019. La investigación fue de tipo cuantitativa, donde se utilizaron herramientas de Geoestadística que contienen procedimientos estadísticos de análisis espacial como la densidad, autocorrelación, modelamiento y predicción espacial, relacionados al ambiente de los Sistemas de Información Geográfica con el QGIS, con la finalidad de encontrar los focos de criminalidad a través de la determinación de sectores y puntos expresados en coordenadas, caracterizados de acuerdo a los crímenes más frecuentes, hora y fecha, ocupación, género y edad del agraviado, identificando los focos de criminalidad en crecimiento, utilizando Moran Local (LISA), densidad de crímenes por fecha, densidad de Kernel con un Radio <400 metros y curvas de nivel a 10 metros, utilizando variograma se encontró como el mejor modelo el “Esférico” con un rango de 3000 metros, un efecto pepita aproximado de 7 metros y una meseta de 19.2 metros para la proyección de focos de criminalidad se utilizaron las técnicas de Kriging Ordinario, realizándose geoestadísticas y mapas o figuras elaborados en QGIS y R. La conclusión fue que el modelo de estadística espacial presenta como principales focos de criminalidad los ubicados en las zonas centros de Chiclayo (1359713 m2 ) y de La Victoria (247482 m2 ), y al suroeste de José Leonardo Ortiz con una extensión aproximada de 42510 m2."
+Año,2020
