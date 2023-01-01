@@ -1,0 +1,15 @@
+Estructura,Datos
+Universidad,Pontificia Universidad Católica del Perú
+Título,Modelo de regresión semiparamétrico robusto
+Nombre del tesista,"Esquivel Segura, Henry John"
+Grado,Magíster en Estadística
+Profesión,Estadística
+Asesor,"Bayes Rodríguez, Cristian Luis"
+Resumen,"El presente trabajo de tesis presenta un modelo de regresión semiparamétrico con errores
+t-Student, que permite estudiar el comportamiento de una variable dependiente dado un
+conjunto de variables explicativas cuando los supuestos de linealidad y normalidad no se
+cumplen. La estimación de los parámetros se realiza bajo el enfoque bayesiano a través del
+algoritmo de Gibbs. En el estudio de simulación se observa que el modelo propuesto es más
+robusto ante la presencia de valores atípicos que el usual modelo regresión semiparamétrico
+normal. Asimismo se presenta una aplicación con datos reales para ilustrar esta característica."
+Año,2018
