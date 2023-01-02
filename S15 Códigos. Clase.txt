@@ -1,0 +1,27 @@
+1.
+
+select nombre, precio*4.10 as precio_soles from producto
+
+2.
+
+select count(*) from producto where precio>600
+
+3.
+
+select producto.*,fabricante.nombre from producto,fabricante where producto.codigo_fabricante=fabricante.codigo
+
+4.
+
+SELECT producto.nombre, producto.precio, fabricante.nombre fabricante from producto,fabricante where producto.codigo_fabricante=fabricante.codigo;
+
+5.
+
+select avg(precio), fabricante.codigo from producto, fabricante where producto.codigo_fabricante=fabricante.codigo group by fabricante.nombre
+
+6.
+
+select avg(precio), fabricante.nombre from producto, fabricante where producto.codigo_fabricante=fabricante.codigo group by fabricante.nombre having avg(precio)>=300
+
+8.
+
+update producto set precio=precio*0.8
