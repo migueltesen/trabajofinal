@@ -1,0 +1,18 @@
+Estructura,Datos
+Universidad,Pontificia Universidad Católica del Perú
+Título,Redes neuronales convolucionales para datos composicionales: Una aplicación a la industria textil de la moda
+Nombre del tesista,"Cotacallapa Amanqui, Pavel Arturo"
+Grado,Magíster en Estadística
+Profesión,Estadística
+Asesor,"Benites Sanchez, Luis Enrique"
+Resumen,"En muchas situaciones prácticas es necesario el uso de modelos que puedan predecir una colección
+de datos limitados por un intervalo cuya suma sea una constante por cada unidad estadística.
+Este tipo de variable respuesta se conoce como datos composicionales. Por otro lado, el número de
+covariables que se usan para el entrenamiento de este tipo de modelos pueden provenir de datos
+asociados a imágenes como la intensidad de los pixeles. En ese contexto, se propone el uso de las
+redes neuronales convolucionales como una primera alternativa para intentar estimar este tipo de
+variable respuesta. Se utiliza la distribución de Dirichlet como distribución condicional de los datos
+y  nalmente se propone una aplicación del modelo utilizando imágenes de prendas de vestir que se
+venden por catálogo en donde el objetivo es predecir las participaciones de las tallas que se venden
+por cada unidad estadística."
+Año,2022
