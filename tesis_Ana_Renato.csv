@@ -1,0 +1,11 @@
+Estructura,Datos
+Universidad,Universidad Peruana de Ciencias Aplicadas (UPC)
+Título,Modelo de madurez de seguridad de aplicaciones web ante ciberataques para clínicas de nivel 2
+Primer tesista,"Muedas Higginson, Ana Cristina"
+Segundo tesista,"Rojas Velásquez, Renato Germán"
+Grado,Licenciatura Ingeniería de Sistemas de Información
+Asesor,"Caldas Nuñez, Manuel"
+Resumen,"La creciente competitividad del mercado, genera una dificultad cada vez mayor en las organizaciones para alcanzar el éxito en sus proyectos. Tal hecho busca priorizar criterios económicos, tiempo, costo, calidad y alcance, ocasionando falta de controles que resultan en brechas de seguridad en la compañía. De esa forma se deja en segundo plano procedimientos de seguridad como por ejemplo el testeo de aplicaciones web. Estas poseen vulnerabilidades que podrían proporcionar los medios para que usuarios finales maliciosos violen mecanismos de protección de un sistema y obtengan acceso a información privada o recursos de la empresa. 
+Los pronósticos referentes a la violación de datos indican que la industria de salud será el blanco más buscado para los ataques cibernéticos en 2017 ya que el alto valor de los registros de salud electrónicos (EHRs) llama cada vez más la atención de los cibercriminales. Dichos registros representan una fuente de ganancias mayor a la que si se accediera a información de tarjetas o cuentas bancarias. 
+El presente proyecto propone un modelo de madurez de seguridad de aplicaciones web ante ciberataques para clínicas de nivel 2 bajo la norma técnica del MINSA, orientada a mostrar las debilidades de las aplicaciones web y las mejoras que se puedan realizar en aspectos de seguridad. El proyecto permitió la implementación de mejoras por parte de las empresas clientes en sus plataformas web mediante la recomendación propuesta por la guía de mejora luego de haber realizado el pentesting propuesto."
+Fecha emitida,2019-10-30
