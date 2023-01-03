@@ -1,0 +1,19 @@
+Estimada profesora
+
+Mediante este archivo indicamos lo sucedido, como usted nos mencionó en el meet donde nos oriento.
+Esta rama "archivo_de_los_3" contiene el trabajo conjunto de todo el grupo, sin embargo no contienen los commit de dos de los integrantes, 
+debido a que al momento de crear repositorio "trabajofinal" nos dividimos en ramas sin embargo no tuvimos un commit inicial de las ramas y
+esto ocasiono que posteriormente no podamos unir las ramas. Ante lo expuesto usted nos dio la oportunidad de poder subir los archivos en 
+una sola rama, que es esta.
+
+A continuación indicamos las ramas:
+-"archivos_de_los_3"    .....  Rama que contiene todos los archivos del grupo (no contiene commit debido a que se subió solo como archivo)
+-"master"      ..... Rama trabajada por Tesen Cornetero, Miguel Angel (Si contiene commit de Miguel)
+-"molinero"    ..... Rama trabajada por Casani Ramos, Kenny Abraham (Si contiene commit de Kenny)
+-"master23"    ..... Rama trabajada por Cordova Pintado, Jose Mayker (Si contiene commit de Mayker)
+
+Al mismo tiempo le indicamos los respectivos usuarios de Github:
+   Usuario                  Alumno
+-migueltesen   .... Tesen Cornetero, Miguel Angel
+-KennyCasani   .... Casani Ramos, Kenny Abraham
+-MaykerC       .... Cordova Pintado, Jose Mayker
